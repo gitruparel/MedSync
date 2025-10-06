@@ -154,10 +154,10 @@ git push origin feature/<feature-name>
 
 | Name | Role |
 | :-- | :-- |
-| [Swayam Ruparel] | Frontend \& Firebase Integration |
-| [Clint Loyed] | UI/UX Design |
-| [Rohit Xavier] | Backend Integration |
-| [Aryan Reshi] | Documentation \& Testing |
+| Swayam Ruparel | Frontend \& Firebase Integration |
+| Clint Loyed | UI/UX Design |
+| Rohit Xavier | Backend Integration |
+| Aryan Reshi | Documentation \& Testing |
 
 
 ***
