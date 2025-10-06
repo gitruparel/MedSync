@@ -52,6 +52,3 @@ MedSync bridges the communication gap between doctors and patients by synchroniz
 - [ ] Final testing and optimization  
 
 ---
-
-## 🗂️ Folder Structure
-
